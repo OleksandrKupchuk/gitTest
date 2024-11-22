@@ -8,6 +8,7 @@ public class Main {
         System.out.println(countTwoSixes(new int[]{1, 2, 5, 6}));
         System.out.println(countTwoSixes(new int[]{1, 2, 6, 7}));
         System.out.println(countTwoSixes(new int[]{1, 7, 6, 1}));
+        System.out.println(countTwoSixes(new int[]{1, 7, 6, 1}));
     }
 
     // i < 4
